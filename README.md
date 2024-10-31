@@ -8,7 +8,6 @@ This project is a C program designed to analyze diabetes statistics across vario
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Functions](#functions)
-- [Example Output](#example-output)
 
 ## Features
 - **Data Preprocessing**: Cleans and processes CSV file data for analysis.
